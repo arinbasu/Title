@@ -5,4 +5,3 @@ untitled.html
 db97.tex
 1542e.html
 e864.tex
-3d74.html
