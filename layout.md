@@ -6,3 +6,4 @@ db97.tex
 1542e.html
 e864.tex
 11a67.html
+adding_citations_from_outside.tex
